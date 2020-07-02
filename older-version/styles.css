@@ -1,0 +1,18 @@
+body{
+    margin: 5% 30%;
+}
+
+form{
+    background-color: #f9f9f9;
+}
+
+div {
+    border: 1px solid #333333;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+div p {
+    text-align: right;
+    border-bottom: 1px solid lightgray;
+}
